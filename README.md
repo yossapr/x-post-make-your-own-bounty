@@ -1,8 +1,8 @@
 # make your own bounty — the X post and its picture
 
-![bounty](https://img.shields.io/badge/make.fun-promote_the_post-ff3fa4?style=flat-square)
-![node](https://img.shields.io/badge/node-22.18%2B-339933?style=flat-square)
-![license](https://img.shields.io/badge/license-MIT-191419?style=flat-square)
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/yossapr/x-post-make-your-own-bounty/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/yossapr/x-post-make-your-own-bounty/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 
 An entry in [make.fun](https://make.fun) 's bounty `post-x-promote-make-your-own-bounty-01`: promote the
 make-your-own-bounty post on X, with a photo the post carries of its own.
